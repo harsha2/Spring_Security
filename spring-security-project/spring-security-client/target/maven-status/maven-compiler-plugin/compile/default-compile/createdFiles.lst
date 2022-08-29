@@ -1,0 +1,17 @@
+com\springboot\security\SpringSecurityClientApplication.class
+com\springboot\security\service\UserService.class
+com\springboot\security\entity\PasswordResetToken.class
+com\springboot\security\repository\VerificationTokenRepository.class
+com\springboot\security\controller\RegistrationController.class
+com\springboot\security\repository\PasswordResetTokenRepository.class
+com\springboot\security\entity\User.class
+com\springboot\security\repository\UserRepository.class
+com\springboot\security\model\PasswordModel.class
+com\springboot\security\config\WebClientConfiguration.class
+com\springboot\security\config\WebsecurityConfig.class
+com\springboot\security\controller\HelloController.class
+com\springboot\security\service\UserServiceImpl.class
+com\springboot\security\event\RegistrationCompleteEvent.class
+com\springboot\security\model\UserModel.class
+com\springboot\security\entity\VerificationToken.class
+com\springboot\security\event\listener\RegistrationCompleteEventListener.class
